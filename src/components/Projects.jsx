@@ -14,20 +14,20 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      title: "Modern E-Commerce Platform",
-      description: "A fully responsive e-commerce website with cart functionality, product filtering, and secure checkout.",
-      image: "https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      title: "TechTheroy",
+      description: "Our Premium Bootcamp Programs.",
+      image: "https://res.cloudinary.com/dtlejpoxq/image/upload/v1748805031/zanzibar/4975ca08-44c4-44a5-8626-67217096eeb7.png",
       tags: ["web", "react"],
       links: {
-        live: "#",
+        live: "https://tech-theroy-p.vercel.app/",
         github: "#"
       }
     },
     {
       id: 2,
-      title: "Social Media Dashboard",
+      title: "Social Media Analytics",
       description: "Centralized dashboard for managing multiple social media accounts with analytics and scheduling features.",
-      image: "https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      image: "https://res.cloudinary.com/dtlejpoxq/image/upload/v1748805445/zanzibar/analysis_rcezm8.jpg",
       tags: ["web", "social"],
       links: {
         live: "#",
@@ -36,23 +36,23 @@ const Projects = () => {
     },
     {
       id: 3,
-      title: "Portfolio for Photographer",
-      description: "Minimalist portfolio website for a professional photographer with image gallery and contact form.",
-      image: "https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      title: "Booking Website for Zanzibar",
+      description: "Explore Zanzibar in Comfort with a Local Touch.",
+      image: "https://res.cloudinary.com/dtlejpoxq/image/upload/v1748804096/zanzibar/zanz-image_jwft5b.jpg",
       tags: ["design", "web"],
       links: {
-        live: "#",
+        live: "https://zanzibar-phi.vercel.app/",
         github: "#"
       }
     },
     {
       id: 4,
-      title: "Social Content Scheduler",
-      description: "Tool for planning and scheduling social media content across multiple platforms.",
-      image: "https://images.pexels.com/photos/905163/pexels-photo-905163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      title: "NEEYAH_SIGNATURE LUXURY HAIR SALON",
+      description: "NEEYAH_SIGNATURE LUXURY HAIR SALON.",
+      image: "https://res.cloudinary.com/dtlejpoxq/image/upload/v1748804382/zanzibar/8b2803d5-0611-410d-b3f8-ef5df58d6ba9.png",
       tags: ["social", "react"],
       links: {
-        live: "#",
+        live: "https://neeyah-hair.vercel.app/",
         github: "#"
       }
     },
@@ -60,7 +60,7 @@ const Projects = () => {
       id: 5,
       title: "Restaurant Booking System",
       description: "Online reservation system for restaurants with table management and customer notifications.",
-      image: "https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      image: "https://res.cloudinary.com/dtlejpoxq/image/upload/v1748804745/zanzibar/1e95df27-9d59-45f0-92d5-90a09d500441.png",
       tags: ["web", "react"],
       links: {
         live: "#",
@@ -69,12 +69,12 @@ const Projects = () => {
     },
     {
       id: 6,
-      title: "Brand Identity Design",
-      description: "Complete brand identity package including logo, color palette, typography, and usage guidelines.",
+      title: "Sentinel Management Services",
+      description: "Empowering Your Business with Expert Bid Management, Consulting and Recruitment Services.",
       image: "https://images.pexels.com/photos/6224/hands-people-woman-working.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
       tags: ["design"],
       links: {
-        live: "#",
+        live: "https://www.sentimgt.co.uk/",
         github: "#"
       }
     }
