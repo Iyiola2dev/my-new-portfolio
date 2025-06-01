@@ -52,19 +52,19 @@ const Contact = () => {
     {
       icon: <FiMail />,
       title: 'Email',
-      content: 'hello@johndoe.com',
-      link: 'mailto:hello@johndoe.com'
+      content: 'iyiolad21@gmail.com',
+      link: 'mailto:iyiolad21@gmail.com'
     },
     {
       icon: <FiPhone />,
       title: 'Phone',
-      content: '+1 (555) 123-4567',
-      link: 'tel:+15551234567'
+      content: '+2349027144698',
+      link: 'tel:+2349027144698'
     },
     {
       icon: <FiMapPin />,
       title: 'Location',
-      content: 'San Francisco, CA',
+      content: 'Lagos, Nigeria',
       link: '#'
     }
   ]
